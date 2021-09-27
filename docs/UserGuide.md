@@ -222,6 +222,7 @@ Action | Format, Examples
 **List** | `elist [at] [end] [d] [a] [z] [t]` <br> e.g., `elist` <br> e.g., `elist at d`
 
 ### General
+
 Action | Format, Examples
 --------|------------------
 **Help** | `help`
